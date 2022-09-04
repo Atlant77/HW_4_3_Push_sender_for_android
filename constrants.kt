@@ -1,0 +1,3 @@
+package ru.netology.push_sender_for_android
+
+const val token = "c2yrPBm4RceG-Gk8S8t63d:APA91bGWtnbsvksNwENJwLFrHA4wc5BxyfraA0ViMcxijW56qD7V5QfCzP2D04l9udC0hdN6FS83qmrzKmpZ1ZVFsngaSPTTc9MGqXTI16qo5HUy-SIb7VmH5zi0f78LZb5-HoTvVzuq"
